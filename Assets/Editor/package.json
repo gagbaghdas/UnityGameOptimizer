@@ -1,0 +1,12 @@
+{
+  "name": "com.frismos.unitygameoptimizer",
+  "version": "0.0.1a",
+  "displayName": "Optimization Analyzer",
+  "description": "A package to analyze and suggest optimizations for Unity projects.",
+  "unity": "2022.3",
+  "author": {
+    "name": "Frismos",
+    "email": "gamesupport@frismos.com",
+    "url": "https://frismos.com"
+  }
+}
